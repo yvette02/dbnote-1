@@ -1,29 +1,13 @@
 # dbnote
 database lecture note
 
-2019-07-05 github ÀÌ¿ë °­ÀÇ³ëÆ® ¸¸µé¾îº¸±â
+#### ì´ í˜ì´ì§€ëŠ” ë°ì´í„°ë² ì´ìŠ¤ êµê³¼ì˜ ê°•ì˜ ë…¸íŠ¸ ê³µê°„ì…ë‹ˆë‹¤.
 
-# Á¦¸ñ1
-## Á¦¸ñ2
-### Á¦¸ñ 3
-#### Á¦¸ñ 4
-##### Á¦¸ñ 5
-###### Á¦¸ñ 6
-
-º»¹®ÀÇ Å©±â´Â 
-
-> µé¿©¾²±â ºí·° 1
-
->> µé¿©¾²±â ºí·° 2
-
-
-```` html 
-<html>
-  <head>
-  </head>
-  <body>
-   </body>
-</html>
-````
-
-À§ÀÇ htmlÄÚµå¸¦ ÀÌ¿ëÇÏ¿©...
+#### í›ˆë ¨ìƒ ë…¸íŠ¸ ë§í¬
+[í•œOí˜œ](https://github.com/yvette02)  [ì‹ Oì—°](https://github.com/yeon0997)
+[ë°•Oì§€](https://github.com/GithubEunJi) [ê¹€Oì—°](https://github.com/thdus0912)
+[ì˜¤Oì„¸](https://github.com/ohjungse) [í™Oì¼](https://github.com/rabiit-hki007)
+[ê¹€Oì„ ](https://github.com/Goldmankim1379)[ê¹€Oê¸°](https://github.com/database-sql)
+[ì‹ Oì•„](https://github.com/psychology81) [ë¬¸Oê· ](https://github.com/moondbcloud)
+[ì¶”Oí•œ](https://github.com/changhan-chu) [ì´Oë¯¼](https://github.com/Pen-nek)
+[ì´Oì¼](https://github.com/CJSRKSQLDOSDPTM)

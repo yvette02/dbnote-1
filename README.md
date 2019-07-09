@@ -9,8 +9,8 @@ database lecture note
 1. 추천사이트
    - [ORACLE](http://www.oracle.com)
    - [MySQL](http://www.mysql.com)
-   - [ERWin.com](http://www.erwin.com]
-   - [IDERA.com](http://www.idera.com]
+   - [ERWin.com](http://www.erwin.com)
+   - [IDERA.com](http://www.idera.com)
    - [Oracle Tutorial](http://oracletutorial.org)
    - [MySQL Tutorial](http://mysqltutorial.org)
    - [데이터 전문가 지식포털 DBGuide Net](http://www.dbguide.net)

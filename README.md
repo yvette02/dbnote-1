@@ -29,6 +29,6 @@ database lecture note
    - [이O민](https://github.com/Pen-nek)
    - [추O한](https://github.com/changhan-chu)
    - [한O혜](https://github.com/yvette02)
-   - [홍O일](https://github.com/rabiit-hki007)
+   - [홍O일](https://github.com/rabbit-hki007)
 
 

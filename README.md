@@ -2,7 +2,7 @@
 database lecture note
 
 1. 강의노트
-1. 데이터베이스 정의와 주요 개념
+   1. 데이터베이스 정의와 주요 개념
 1. 참고자료
    - [연습문제 정답](./reference/answer.pdf)
    - [실전데이터베이스 모델링 - LGCNS](./reference/database_modeling_lgcns.pdf)

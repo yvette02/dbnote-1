@@ -1,8 +1,15 @@
-# dbnote
+﻿# dbnote
 database lecture note
 
 1. 강의노트
    1. 데이터베이스 정의와 주요 개념
+1. 실습과제
+   1. 팀편성
+     |  팀명 |   
+   1. 요구사항명세서 만들기
+      1. 독수리5형제
+      1. 28.4번가
+      1. 잘팔자
 1. 참고자료
    - [실전데이터베이스 모델링 - LGCNS](./reference/database_modeling_lgcns.pdf)
    - [데이터 모델링 및 분석](./reference/whitten.pdf)
